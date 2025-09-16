@@ -2,6 +2,7 @@
 
 # BITS_Pillani_ForestFireModel_UsingMLDL  
 
+
 Forest Fire Prediction Model using Machine Learning (Algo & techniques) and Deep Learning (Neural Networks).  
 
 ## Research Study Area  
